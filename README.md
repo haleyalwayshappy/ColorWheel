@@ -3,9 +3,9 @@
 참고 :https://www.youtube.com/watch?v=qI3BGn62bZk
       https://github.com/LukeDeighton/Wheel 
       
-      + 가운데서 돌리는 러시안 룰렛 형태를 변형해 하단에 배치했다. 
-      + 회사 프로젝트 끝나고 업로드 예정...
-      + 
+   *본인은 xml의 width,height를 수정에 휠을 하단에 배치했다. 
+   *예제이므로 가운데로 보이게 했지만 xml 수정을 조금만 한다면 원하는 위치에 배치 할 수 있음
+      
 
 컬러휠 사용 법
 유튜브 봐라 이게 짱임 https://www.youtube.com/watch?v=qI3BGn62bZk
